@@ -1,7 +1,7 @@
 # UNO
 Bringing to you a Player vs PC Python version of the World's No.1 Classic Card Game, UNO. The first one to get rid of all their cards wins the game!
 
------------------------------------------------------------PROJECT----------------------------------------------------------
+------------------------------------------------------------PROJECT-----------------------------------------------------------
 # Project Title: Python UNO
 
 # Group members
