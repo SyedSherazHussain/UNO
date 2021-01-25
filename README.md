@@ -4,7 +4,7 @@ all their cards wins the game!
 
 **----------------------------------------------------------PROJECT-----------------------------------------------------------**
 
-#                                                      **Project Title**
+# **Project Title: Python UNO**
 
 # **Group members**
   1) **Syeda Fatima Shahid**
