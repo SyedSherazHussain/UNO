@@ -23,8 +23,18 @@ draw the top card from the deck, then play it if possible
 The first player to play all of their cards wins the game.
 
 # Game Features
-  ## -REPLAYABILITY
+  ## ⦿ REPLAYABILITY
   Choice to play again and again with a different gameplay each time thus keeping the player hooked to the game
+  ## ⦿ GAMING ENVIRONMENT
+  Action cards create an energizing environment bombarding the player with continuous challenges
+  ## ⦿ WINNING CHANCES
+  At the beginning of the game, both the player and computer have equal winning chances. Neither of them has an advantage over the other
+  ## ⦿ LIMITING INACTIVITY PERIOD
+  We will be designing a player vs computer game to keep the player riveted on to the game instead of a multi-player game - which can devastate the player's interest due to long periods of inactivity while waiting for their turns
+
+
+
+
   
 
 # Technical Architecture
