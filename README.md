@@ -32,13 +32,19 @@ The first player to play all of their cards wins the game.
   At the beginning of the game, both the player and computer have equal winning chances. Neither of them has an advantage over the other
   ## ⦿ LIMITING INACTIVITY PERIOD
   We will be designing a player vs computer game to keep the player riveted on to the game instead of a multi-player game - which can devastate the player's interest due to long periods of inactivity while waiting for their turns
-
-
-
-
-  
-
+  ## ⦿ CARD DEALING
+  This is an added feature not found in the traditional UNO game. We have included this in the game to create a competitive environment and to increase the difficulty level of the game - If a player has no playable cards in his hand, then they can exchange an action card with the required colour card, from the PC and vice versa.
+  ## ⦿ CHALLENGING WILD DRAW FOUR
+  Another added feature - If a player wants, then they can challenge the other’s throw of Wild card Draw 4. WILD DRAW FOUR can only be played when no valid card is available. If played otherwise and challenged, then as penalty 6 cards must be drawn from the deck.
+ 
 # **Technical Architecture**
   A detailed architecture diagram for the project linking the various functions and modules to the main loop has been attached to this file.
 
 # **How to deploy the program**
+  To play the game:
+  - You must have a python IDLE (game originally created on Visual Studio Code)
+  - You must import the third party module 'colorama' to view coloured text; 
+    We used Colorama to bring colors to the game, especially the starting UNO title, “Fore” command is used to color the characters of a line
+    The rest of the games’ lines have also been colored to light cyan  to make the game look appealing.
+  - Built-in modules 'time' and 'random' have been used in the program therefore, they must also be imported for code execution.
+  
