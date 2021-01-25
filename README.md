@@ -35,7 +35,7 @@ The first player to play all of their cards wins the game.
   ## ⦿ CARD DEALING
   This is an added feature not found in the traditional UNO game. We have included this in the game to create a competitive environment and to increase the difficulty level of the game - If a player has no playable cards in his hand, then they can exchange an action card with the required colour card, from the PC and vice versa.
   ## ⦿ CHALLENGING WILD DRAW FOUR
-  Another added feature - If a player wants, then they can challenge the other’s throw of Wild card Draw 4. WILD DRAW FOUR can only be played when no valid card is available. If played otherwise and challenged, then as penalty 6 cards must be drawn from the deck.
+  Another added feature - If a player wants, then they can challenge the other’s throw of Wild Draw 4 card. WILD DRAW FOUR can only be played when no valid card is available. If played otherwise and challenged, then as penalty 6 cards must be drawn from the deck.
  
 # **Technical Architecture**
   A detailed architecture diagram for the project linking the various functions and modules to the main loop has been attached to this file.
