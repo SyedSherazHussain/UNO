@@ -1,7 +1,7 @@
 # UNO
 Bringing to you a Player vs PC Python version of the World's No.1 Classic Card Game, UNO. The first one to get rid of all their cards wins the game!
 
-## ----------------------------------------------------------PROJECT-----------------------------------------------------------
+**----------------------------------------------------------PROJECT-----------------------------------------------------------**
 
 # Project Title: Python UNO
 
@@ -38,5 +38,6 @@ The first player to play all of their cards wins the game.
   
 
 # Technical Architecture
+  A detailed architecture diagram for the project linking the various functions and modules used to the main loop has been attached to this file
 
-# How to deploy
+# How to deploy the program
