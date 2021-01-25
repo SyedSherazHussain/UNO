@@ -39,6 +39,6 @@ The first player to play all of their cards wins the game.
   
 
 # **Technical Architecture**
-  A detailed architecture diagram for the project linking the various functions and modules used to the main loop has been attached to this file
+  A detailed architecture diagram for the project linking the various functions and modules to the main loop has been attached to this file.
 
 # **How to deploy the program**
