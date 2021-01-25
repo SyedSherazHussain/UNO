@@ -4,15 +4,15 @@ all their cards wins the game!
 
 **----------------------------------------------------------PROJECT-----------------------------------------------------------**
 
-# Project Title: Python UNO
+# **Project Title: Python UNO**
 
-# Group members
+# **Group members**
   1) **Syeda Fatima Shahid**
   2) **Syed Sheraz Hussain**
   3) **Khubaib Ahmed Qureshy**
   4) **Hadia Tarik**
 
-# Project Description
+# **Project Description**
 The purpose of our project is to create an interactive game that primarily focuses on the concepts that were learnt in class and manipulating the functionalities of Python to design a complex yet efficient and easy to comprehend game, UNO.
 
 UNO is one of the most famous and exciting classic card games for both the children (age:7+) and the adults.
@@ -23,7 +23,7 @@ play a Wild card, or a playable Wild Draw Four card
 draw the top card from the deck, then play it if possible
 The first player to play all of their cards wins the game.
 
-# Game Features
+# **Game Features**
   ## ⦿ REPLAYABILITY
   Choice to play again and again with a different gameplay each time thus keeping the player hooked to the game
   ## ⦿ GAMING ENVIRONMENT
@@ -38,7 +38,7 @@ The first player to play all of their cards wins the game.
 
   
 
-# Technical Architecture
+# **Technical Architecture**
   A detailed architecture diagram for the project linking the various functions and modules used to the main loop has been attached to this file
 
-# How to deploy the program
+# **How to deploy the program**
