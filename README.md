@@ -5,7 +5,7 @@ Bringing to you an Online Player vs PC Version of the World's No.1 Classic Card 
 # Project Title: Python UNO
 
 # Group members
-  1) Syeda Fatima Shahid
+  1) **Syeda Fatima Shahid**
   2) Syed Sheraz Hussain
   3) Khubaib Ahmed Qureshy
   4) Hadia Tarik
