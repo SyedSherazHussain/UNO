@@ -23,7 +23,7 @@ draw the top card from the deck, then play it if possible
 The first player to play all of their cards wins the game.
 
 # Game Features
-  ## REPLAYABILITY
+  ## - REPLAYABILITY
   Choice to play again and again with a different gameplay each time thus keeping the player hooked to the game
   
 
