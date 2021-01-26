@@ -47,4 +47,6 @@ The first player to play all of their cards wins the game.
     We used Colorama to bring colors to the game, especially the starting UNO title, “Fore” command is used to color the characters of a line
     The rest of the games’ lines have also been colored to light cyan  to make the game look appealing.
   - Built-in modules 'time' and 'random' have been used in the program therefore, they must also be imported for code execution.
+
+⇛ P.F.A ⇚
   
