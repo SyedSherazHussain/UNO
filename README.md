@@ -9,7 +9,7 @@ all their cards wins the game!
 # **Group members**
   1) **Syeda Fatima Shahid**
   2) **Syed Sheraz Hussain**
-  3) **Khubaib Ahmed Qureshy**
+  3) **Khubaib Ahmad Qureshy**
   4) **Hadia Tarik**
 
 # **Project Description**
