@@ -21,7 +21,6 @@ import time
 def make_deck():
     """
     This function generates an UNO deck consisting of 108 cards.
-
     A nested for loop is used to combine the card colour and value, in a single string.
     The card (string) is then appended to an empty list 'deck'. Another for loop is used
     to simply append the 'Wild' and 'Wild Draw Four' cards in the list 'deck'.
