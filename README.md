@@ -12,6 +12,7 @@ all their cards wins the game!
   3) **Khubaib Ahmad Qureshy**
   4) **Hadia Tarik**
 
+
 # **Project Description**
 The purpose of our project is to create an interactive game that primarily focuses on the concepts that were learnt in class and manipulating the functionalities of Python to design a complex yet efficient and easy to comprehend game, UNO.
 
